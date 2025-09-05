@@ -56,7 +56,7 @@ It provides a centralized interface for configuring, launching, monitoring, and 
 
 ##  Getting Started
 
-1. **Download** the latest release from the [Releases Page](https://github.com/yourusername/dentist-bulk-launcher/releases)
+1. **Download** the latest release from the [Releases Page](https://github.com/GeniuSKilleR95/dentist-bulk-launcher/releases)
 2. **Run** the application: ```java -jar DentistBulkLauncher.jar```
 3. **Setup Tribot CLI Client:** Place the Tribot CLI Client in your Tribot folder. [CLI Download](https://community.tribot.org/index.php?/topic/5009-tribot-command-line-interface/)
 4. **Activate Custom Script:** Enable the BulkLauncher Communicator Script on the Tribot community scripts page.[Activate Script](https://tribot.org/user/community-scripts?page=1&q=BulkLauncher%20Communicator)
