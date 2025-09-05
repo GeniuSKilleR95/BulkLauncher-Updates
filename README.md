@@ -14,8 +14,8 @@ It provides a centralized interface for configuring, launching, monitoring, and 
 
 ###  Account Management
 - Manage multiple account types:
-    - Legacy ( Accounts that is already in tribot launcher )
-    - Launcher
+    - Legacy
+    - Launcher ( Accounts that is already in tribot launcher )
     - Jagex Raw
 - Bulk import and export for legacy accounts
 - Monitor account status in real-time
