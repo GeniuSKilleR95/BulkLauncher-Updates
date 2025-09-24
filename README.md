@@ -3,7 +3,7 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/GeniuSKilleR95/BulkLauncher-Updates?style=for-the-badge)](https://github.com/GeniuSKilleR95/BulkLauncher-Updates/releases)
 [![Downloads](https://img.shields.io/github/downloads/GeniuSKilleR95/BulkLauncher-Updates/total?style=for-the-badge)](https://github.com/GeniuSKilleR95/BulkLauncher-Updates/releases)
-[![Discord](https://img.shields.io/discord/123456789012345678?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/dentist)
+[![Discord](https://img.shields.io/discord/674640536170135563?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/dentist)
 
 Dentist Bulk Launcher is a powerful management tool for handling large numbers of RuneScape bot accounts.  
 It provides a centralized interface for configuring, launching, monitoring, and controlling multiple bot instances across local or remote machines.
